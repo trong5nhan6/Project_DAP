@@ -1,0 +1,1 @@
+Biểu đồ histogram thể hiện phân phối lợi nhuận hàng ngày (Daily Return) của cổ phiếu. Hình dạng của phân phối giúp đánh giá độ biến động và rủi ro: nếu tập trung quanh mức 0 thì biến động thấp, còn nếu phân phối trải rộng thì thị trường có mức dao động lớn. Biểu đồ cũng hỗ trợ phát hiện xu hướng lệch âm hoặc dương — dấu hiệu của thiên kiến thị trường.

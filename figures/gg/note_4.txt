@@ -1,0 +1,1 @@
+Biểu đồ phân tán thể hiện mối quan hệ giữa khối lượng giao dịch và giá đóng cửa cổ phiếu. Mỗi điểm biểu thị một ngày giao dịch, với màu sắc phản ánh phần trăm thay đổi lợi nhuận trong ngày (Daily Return). Biểu đồ giúp phát hiện xu hướng như: giá tăng đi kèm với khối lượng lớn, hay các vùng tập trung dữ liệu cho thấy hành vi thị trường ổn định hoặc biến động cao.
