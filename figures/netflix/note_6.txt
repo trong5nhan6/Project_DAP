@@ -1,0 +1,1 @@
+Biểu đồ histogram mô tả phân phối của giá đóng cửa cổ phiếu trong toàn bộ giai đoạn quan sát. Phân phối này giúp đánh giá các mức giá thường xuyên xuất hiện, phát hiện vùng giá ổn định hoặc vùng có biến động mạnh. Nếu biểu đồ có nhiều đỉnh, đó có thể là dấu hiệu của các mức hỗ trợ và kháng cự kỹ thuật — nơi giá thường dao động qua lại hoặc bật ngược.
